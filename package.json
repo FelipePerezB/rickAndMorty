@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "pruebas asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback/index.js",
+    "callback:challenge": "node callback/challenge.js",
+    "promise": "node promise/promise.js"
+  },
+  "author": "Felipe",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
